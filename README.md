@@ -1764,6 +1764,3 @@ Attempt to write a bot to pick the optimal team.
         Virtual coin toss
     </li>
 </ol>
-<p>
-    <strong> </strong>
-</p>
