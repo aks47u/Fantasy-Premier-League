@@ -1,7 +1,9 @@
 Fantasy-Premier-League
-======================
-Attempt to write a bot to pick the optimal team.
-======================
+=============
+
+<h5>Attempt to write a bot to pick the optimal team.</h5>
+<p>The following text is taken from: http://fantasy.premierleague.com/rules/</p>
+<br>
 
 <p>
     <strong><a href="http://fantasy.premierleague.com/rules/">Selecting Your Initial Squad</a></strong>
