@@ -48,7 +48,7 @@ public class BoundedKnapsack extends ZeroOneKnapsack {
 
 			for (int j = 0; j < clubs.length; j++) {
 				for (int k = 0; k < pos.length; k++) {
-					if (item.getBounding() > 1
+					if (item.getBounding() > 0
 							&& (item.getTeam().equals(clubs[j][0]) && Integer
 									.parseInt(clubs[j][1]) > 0)
 									&& (item.getPosition().equals(pos[k][0]) && Integer
