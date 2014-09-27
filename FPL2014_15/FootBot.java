@@ -192,7 +192,7 @@ public class FootBot {
 	}
 
 	private static void pickTeam(int funds) {
-		// ZeroOneKnapsack solver = new ZeroOneKnapsack(funds);
+		//ZeroOneKnapsack solver = new ZeroOneKnapsack(funds);
 		BoundedKnapsack solver = new BoundedKnapsack(funds);
 
 		for (int i = 0; i < all.length; i++) {
