@@ -8,9 +8,6 @@ public class Item {
 	protected String position;
 	protected int bounding = 1; // the maximal limit of item's pieces
 	protected int volume = 1;
-	protected static int gk, df, md, fw, club, tot;
-	protected static final int MAXGK = 2, MAXDF = 5, MAXMD = 5, MAXFW = 3;
-	protected static final int MAXCLUB = 3, MAXTOT = 15;
 	protected int inKnapsack = 0; // the pieces of item in solution
 
 	public Item() {
